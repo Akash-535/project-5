@@ -1,0 +1,91 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+}
+.container{
+    width: 1140px;
+    max-width: 1140px;
+    padding-left: 12px;
+    padding-right: 12px;
+    margin-left: auto;
+    margin-left: auto;
+
+
+}
+
+section{
+    height: 110vh;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    justify-items: center;
+    display: flex;
+}
+
+.row{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-left: -12px;
+    margin-right: -12px;
+}
+
+.col-6
+{
+    width: 50%;
+    padding-left: 12px;
+    padding-right: 12px;
+}
+.learn{
+    display: flex;
+}
+.h6{
+    color: #fc724d;
+}
+.h2{
+    margin-top: 42px;
+    margin-bottom: 35px;
+}
+.P{
+    margin-bottom: 35px;
+}
+.card1{
+    margin-top: 221px;
+    margin-bottom: 221px;
+}
+.svg{
+    margin-left: 10px;
+    margin-bottom: 4px;
+}
+.card2{
+    padding: 35px 40px;
+    box-shadow: 0px 13px 19px 0px #00000012;
+    opacity: 0px;
+}
+.box{
+    width: 70px;
+    height: 76px;
+    padding: 22px 19px ;
+    gap: 10px;
+    border-radius: 10px;
+    opacity: 0px;
+    background-color: #b6d7ff;
+
+}
+.mb222{
+    margin-top: 222px;
+
+}
+.mt24{
+    margin-top: 24px;
+}
+.mtt28{
+    margin-top: 28px;
+}
+.line2{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
